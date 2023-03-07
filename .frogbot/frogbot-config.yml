@@ -1,0 +1,8 @@
+- params:
+    git:
+      repoName: jenkins-artifactory-plugin
+      branches:
+        - master
+    scan:
+      projects:
+        - repository: jenkins-public
